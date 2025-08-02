@@ -13,7 +13,7 @@ The program then calculates the total price for the order and applies a 10% disc
 ---
 
 Purpose:
-This project was created for Project 1 to practice:
+This project was created for ICT 152 Project 1 to practice:
 - Taking user input
 - Using `if` and `switch` (or equivalent conditional statements)
 - Performing basic arithmetic in a menu-driven program
